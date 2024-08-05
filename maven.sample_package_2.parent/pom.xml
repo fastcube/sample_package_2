@@ -13,5 +13,6 @@
 	</parent>
 
 	<modules>
-	</modules>
+	<module>../maven.mc-sample_package_2.parent</module>
+    </modules>
 </project>
